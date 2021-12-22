@@ -1,4 +1,4 @@
-```json
+```
 {
     "editor.fontSize": 16,
     "editor.fontLigatures": true,
@@ -72,7 +72,7 @@
 
 
 html5--用户代码片段
-```json
+```
 {
     "vh": {
         "prefix": "html5", // 触发的关键字 输入html5按下tab键
